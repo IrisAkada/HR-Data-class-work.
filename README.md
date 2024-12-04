@@ -60,6 +60,14 @@ In the initial phase of the Data cleaning and preparations, we perform the below
 
 This is a project report on HR Data of an organization with A sum Total  of Employee of 1470. This project is aimed at analyzing and evaluating the data provided to decipher the reasons for attritions among employee in the organization and the effect on the organization as this will help draw satisfying recommendations and conclusion in making a data informed decisions on positive measures to improve on the business.
 
+
+![Screenshot (62)](https://github.com/user-attachments/assets/9d0eb0c2-bea8-4748-b7c5-1a2f1e6af610)
+
+![Screenshot (64)](https://github.com/user-attachments/assets/441e0061-9034-41eb-9f6d-d483b3865106)
+
+![Screenshot (63)](https://github.com/user-attachments/assets/9a8a8ebd-56b7-4bae-a27c-ab0435388cc5)
+
+
 From the Dashboard 1 of HR Data above, The initial Number of Employee using Card visuals shows Employees in all the three departments in the organization were 1470.Total Number of 237 Employees left the organization leaving the organization with a Total number of 1233 of current employees.
 Further analysis indicates the rate of attrition as 16% in all the departments.
  
