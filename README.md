@@ -139,7 +139,7 @@ The current Number of Employee in the organization is 1233, using Table tool for
 |198                     | Single        | Male  |
  Total:1233
  
-Observing very closely the Married Male are more in number in the organization with the total Number of 348.
+Observing very closely the Married Male are more in number in the organization with the total Number of 348, than employee on other marital status.
 
 
 
